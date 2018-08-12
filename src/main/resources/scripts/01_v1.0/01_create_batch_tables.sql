@@ -1,5 +1,5 @@
 --------------------------------------------------------
---  File created - Release 4.3    
+--  File created - Release 4.0  
 --------------------------------------------------------
 
   CREATE TABLE BATCH_JOB_EXECUTION

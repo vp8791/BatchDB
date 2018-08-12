@@ -1,5 +1,5 @@
 --------------------------------------------------------
---  File created - Release  4.3   
+--  File created - Release  4.0  
 --------------------------------------------------------
 
 Insert into CONFIGURATION_PARAMETERS (KEY,VALUE) values ('COMMIT_SIZE','5');
