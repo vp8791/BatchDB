@@ -9,4 +9,5 @@ Insert into CONFIGURATION_PARAMETERS (KEY,VALUE) values ('SUCCESS_DIRECTORY','/h
 Insert into CONFIGURATION_PARAMETERS (KEY,VALUE) values ('ERROR_DIRECTORY','/home/batchconfig/batch/errors');
 Insert into CONFIGURATION_PARAMETERS (KEY,VALUE) values ('PROCESSING_DIRECTORY','/home/batchconfig/batch/processing');
 Insert into CONFIGURATION_PARAMETERS (KEY,VALUE) values ('SKIPPED_ITEMS_DIRECTORY','/home/batchconfig/batch/skipped');
+Insert into CONFIGURATION_PARAMETERS (KEY,VALUE) values ('DB_Release','4.3');
 commit;
